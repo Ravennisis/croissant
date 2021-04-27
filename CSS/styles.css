@@ -1,0 +1,21 @@
+body {
+  background: whitesmoke;
+}
+
+h1 {
+  text-align: center;
+  color: violet;
+}
+
+a {
+  text-decoration: none;
+  color: violet;
+}
+
+a:hover {
+  color: purple;
+}
+
+div {
+  text-align: center;
+}
